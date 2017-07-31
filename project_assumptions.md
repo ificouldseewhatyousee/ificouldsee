@@ -5,11 +5,13 @@ Looking at surveillance as a practice performed by people roots this project in 
 As a part of this rooting in human experience, sensing and making sense—in the case of surveillance photography specifically we might say looking and seeing—are learned skills. No one comes into the world as a surveillance operator—surveillance operators are trained, as are humans in any other job (see "Surveillance is a job," below).
 
 <br>
+
 **Surveillance is a job**
 
 Looking at surveillance as a job—like any other job—enables us to understand it through analogy to other jobs with which we may be more familiar.
 
 <br>
+
 **Surveillance is conducted by bureaucracies**
 
 Similarly to looking at surveillance as a job, looking at surveillance as a function of bureaucracies enables us to understand its operations in the context of what bureaucracies.
