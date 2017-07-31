@@ -14,7 +14,7 @@ Looking at surveillance as a job—like any other job—enables us to understand
 
 **Surveillance is conducted by bureaucracies**
 
-Similarly to looking at surveillance as a job, looking at surveillance as a function of bureaucracies enables us to understand its operations in the context of what bureaucracies.
+Similarly to looking at surveillance as a job, looking at surveillance as a function of bureaucracies enables us to understand its operations in the context of what bureaucracies do in general.
 
 This is particularly true with regards to understanding training for surveillance. The way that a bureaucracy trains its members to do one task is often if not mostly the way that that bureaucracy trains its members to do other tasks. A slightly weaker but still strong statement is that there will often be similarities between how two separate bureaucracies of similar size or similar function train their members for the same tasks.
 
