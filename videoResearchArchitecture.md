@@ -5,7 +5,7 @@ Video information source research is currently an ad hoc system with the followi
 
 System workflow:
 1. In YouTube (https://www.youtube.com/), User initiates search using keyword searches
-2. In YouTube, when User discovers possible review candidates, User adds video to "research" playlist \[any member of ificouldseewhatyoucouldsee YouTube user (https://www.youtube.com/channel/UCa4T96vEIH4dHy8mLoS20yw) playlist "research: new videos to review" (https://www.youtube.com/playlist?list=PLpC3nKmQXcqfqWW5kF59v-otubvz_NLXo)\]
+2. In YouTube, when User discovers possible review candidates, User adds video to "research" playlist \[any member of ificouldseewhatyoucouldsee YouTube user (https://www.youtube.com/channel/UCa4T96vEIH4dHy8mLoS20yw) playlist "research: new videos to review" (https://www.youtube.com/playlist?list=PLpC3nKmQXcqfqWW5kF59v-otubvz_NLXo) \]
 3. Contents of "research: new videos to review" playlist (like all YouTube playlists) are automatically exposed as RSS feeds, although these feeds are not W3C compliant (https://validator.w3.org/feed/)
 4. Using Feed43 (http://feed43.com/), the non-compliant "research: new videos to review" playlist RSS feed is converted into a compliant RSS feed
 5. Using IFTTT (https://ifttt.com/), the compliant "research: new videos to review" playlist RSS feed monitored, and for each new item in the feed the following are created:
