@@ -1,9 +1,13 @@
-20170810
+20170811
 
 Video information source research is currently an ad hoc system with the following limitations:
 * "System" is limited to YouTube
 
 System workflow:
+| Generic Description | Current Implementation |
+
+
+
 1. In YouTube (https://www.youtube.com/), User initiates search using keyword searches
 2. In YouTube, when User discovers possible review candidates, User adds video to "research" playlist \[any member of ificouldseewhatyoucouldsee YouTube user (https://www.youtube.com/channel/UCa4T96vEIH4dHy8mLoS20yw) playlist "research: new videos to review" (https://www.youtube.com/playlist?list=PLpC3nKmQXcqfqWW5kF59v-otubvz_NLXo) \]
 3. Contents of "research: new videos to review" playlist (like all YouTube playlists) are automatically exposed as RSS feeds, although these feeds are not W3C compliant (https://validator.w3.org/feed/)
