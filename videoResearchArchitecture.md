@@ -4,8 +4,9 @@ Video information source research is currently an ad hoc system with the followi
 * "System" is limited to YouTube
 
 System workflow:
-| Generic Description | Current Implementation |
 
+| Generic Description | Current Implementation |
+|--------------------|--------------------|
 
 
 1. In YouTube (https://www.youtube.com/), User initiates search using keyword searches
